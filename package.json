@@ -1,0 +1,17 @@
+{
+  "name": "a-web-piece",
+  "version": "1.0.0",
+  "description": "Um novo pedacinho da web, criado com carinho e a ajuda do @filipedeschamps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev" 
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
